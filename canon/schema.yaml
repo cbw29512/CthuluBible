@@ -1,0 +1,148 @@
+schema_version: "0.1"
+
+canon_record:
+  required:
+    - id
+    - canonical_name
+    - category
+    - status
+    - core_truth
+    - public_teaching
+    - deeper_teaching
+    - paradoxes
+    - relationships
+    - scripture_sources
+
+  fields:
+    id:
+      type: string
+      description: Stable machine-readable identifier.
+
+    canonical_name:
+      type: string
+      description: Preferred display name in the canon.
+
+    aliases:
+      type: list[string]
+      default: []
+
+    category:
+      type: enum
+      values:
+        - doctrine
+        - entity
+        - place
+        - symbol
+        - ritual
+        - ethical_principle
+        - cosmology
+        - terminology
+
+    status:
+      type: enum
+      values:
+        - canonical
+        - accepted
+        - disputed
+        - apocryphal
+        - draft
+
+    core_truth:
+      type: string
+      description: Smallest stable statement the project currently accepts.
+
+    public_teaching:
+      type: string
+      description: The form suitable for an ordinary initiate.
+
+    deeper_teaching:
+      type: string
+      description: The more destabilizing or paradoxical interpretation.
+
+    paradoxes:
+      type: list[string]
+      description: Statements that deliberately prevent simplistic interpretation.
+
+    prohibitions:
+      type: list[string]
+      description: Interpretations that would violate established canon.
+
+    symbols:
+      type: list[string]
+
+    relationships:
+      type: map[string, string]
+      description: Relationship to other canonical records.
+
+    scripture_sources:
+      type: list[string]
+      description: Repository paths to canonical or relevant texts.
+
+    research_sources:
+      type: list[string]
+      description: Repository paths to source notes. Not evidence by itself.
+
+    open_questions:
+      type: list[string]
+      description: Questions the canon intentionally leaves unsettled.
+
+    notes:
+      type: string
+
+example:
+  id: first_witness
+  canonical_name: "The First Witness"
+  aliases:
+    - "The First Sane"
+    - "The Sleeping Witness"
+  category: entity
+  status: canonical
+
+  core_truth: >-
+    Cthulhu was the first known being to experience True Reality and
+    return with enough individuality to communicate.
+
+  public_teaching: >-
+    Seek understanding, but do not seek unrestricted revelation.
+
+  deeper_teaching: >-
+    True Reality dissolves distinctions required by finite consciousness.
+    Cthulhu's restraint is therefore part of his teaching.
+
+  paradoxes:
+    - "The First Awakened teaches others not to awaken as he did."
+    - "He withdrew from the world in order to remain present to it."
+    - "His Dream reveals Reality by hiding most of it."
+
+  prohibitions:
+    - "Do not describe Cthulhu as omniscient."
+    - "Do not make Cthulhu the supreme creator."
+    - "Do not make worship of Cthulhu the doctrinal goal."
+    - "Do not treat unrestricted awakening as automatically beneficial."
+
+  symbols:
+    - "sleeping ocean"
+    - "empty altar"
+    - "closed eye"
+    - "black star"
+
+  relationships:
+    veil: "protective limitation"
+    rlyeh: "voluntary containment and sanctuary"
+    dream: "merciful translation layer"
+    nyarlathotep: "counter-teaching of revelation without mercy"
+    yog_sothoth: "encountered mystery beyond complete comprehension"
+
+  scripture_sources:
+    - "scripture/01_sutra_sleeping_witness.md"
+
+  research_sources: []
+
+  open_questions:
+    - "How much individuality remains in Cthulhu after the First Seeing?"
+    - "Is the Dream intentionally authored at every moment, or partly emergent?"
+    - "Is 'Cthulhu' still a meaningful singular identity outside the Veil?"
+
+  notes: >-
+    Canonical identity must remain alien. Compassion does not make the
+    First Witness psychologically human.
