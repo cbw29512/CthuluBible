@@ -32,7 +32,7 @@ records:
       great_sleep: "voluntary containment"
       dream: "filtered revelation"
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
     research_sources: []
     open_questions:
       - "How much singular identity remains after the First Seeing?"
@@ -67,7 +67,7 @@ records:
       first_witness: "the one who crossed beyond it"
       dream: "controlled permeability"
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
     research_sources: []
     open_questions:
       - "Is the Veil inherent to all finite minds or specific to kinds of consciousness?"
@@ -101,7 +101,7 @@ records:
       rlyeh: "sanctuary and containment"
       dream: "means of mediated contact"
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
     research_sources: []
     open_questions:
       - "Was R'lyeh built before or after the First Seeing?"
@@ -137,7 +137,7 @@ records:
       veil: "selective crossing"
       nyarlathotep: "opposed method of unfiltered revelation"
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
     research_sources: []
     open_questions:
       - "How intentional is each individual dream?"
