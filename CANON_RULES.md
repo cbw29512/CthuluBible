@@ -1,0 +1,266 @@
+# Canon Rules
+
+These rules exist to prevent theological drift. Read this file before adding doctrine, entities, scripture, commentary, or ritual material.
+
+## Prime rule
+
+> **Cthulhu woke so that we would not have to.**
+
+Cthulhu is the First Witness: the first known being to experience True Reality and return with enough individuality to communicate.
+
+He does **not** seek worship, conversion, obedience, or universal awakening.
+
+His deepest act of compassion is restraint.
+
+## 1. The Veil
+
+The Veil is the finite mind's ordinary model of reality.
+
+It creates usable distinctions such as:
+
+- self / other
+- before / after
+- life / death
+- cause / effect
+- object / observer
+- matter / thought
+- possibility / actuality
+
+The Veil is incomplete, but it is not merely evil or false.
+
+> **The Veil was mercy before it became a prison.**
+
+Finite consciousness depends on simplification. To strip away every simplification at once is not enlightenment; it is destruction of the conditions under which an individual mind can function.
+
+## 2. True Reality
+
+True Reality is never exhaustively described.
+
+Any statement about it is a translation into categories created inside the Veil.
+
+Therefore:
+
+- no text may claim to contain a complete description of True Reality;
+- no entity, including Cthulhu, may be treated as omniscient;
+- apparent contradictions may be intentional when different limited models approach the same underlying reality;
+- certainty itself may become a theological error.
+
+## 3. Cthulhu
+
+Canonical roles:
+
+- The First Witness
+- The First Sane
+- The Sleeping Witness
+- The Prophet Beneath the Waters
+- The One Who Saw Without Veils
+
+Cthulhu is **not** the supreme creator.
+
+Cthulhu is **not** to be reduced to a benevolent human-style deity.
+
+Cthulhu remains alien.
+
+His compassion comes from understanding what unrestricted perception does to finite minds.
+
+### Required paradox
+
+Cthulhu sought awakening before he understood its cost.
+
+After reaching True Reality, he concluded that others should not be forced—or casually encouraged—to follow him there.
+
+## 4. The Great Sleep
+
+The Great Sleep is voluntary containment, not simple imprisonment.
+
+R'lyeh functions as sanctuary, monastery, containment structure, and symbolic threshold.
+
+Cthulhu withdraws because direct proximity to his awakened consciousness can destabilize lesser minds.
+
+## 5. The Dream
+
+The Dream is a translation layer.
+
+True Reality cannot be transmitted directly without risk. Cthulhu's dreaming consciousness reduces it into forms finite minds can sometimes survive:
+
+- symbols
+- parables
+- intuitions
+- mathematics
+- art
+- music
+- mystical experience
+- dreams
+- moments of ego dissolution
+- flashes of compassion or cosmic perspective
+
+This filtered transmission is called the **Flood of Sanity**.
+
+The Flood must never be treated as simple mind control, conversion, or benevolent propaganda.
+
+## 6. Worship
+
+Proper doctrine rejects worship of Cthulhu.
+
+Not because worship merely embarrasses him, but because fixation upon the First Witness increases orientation toward his consciousness and therefore toward Reality.
+
+Canonical principle:
+
+> **Do not worship the one who saw. Look where he looked—but only as far as you can return from.**
+
+Temples, priesthoods, icons, chants, and devotional movements may exist in the fictional history, but they can misunderstand the First Witness.
+
+An empty altar is an acceptable sacred symbol.
+
+## 7. Awakening
+
+Awakening is not automatically good.
+
+There are at least three broad states:
+
+1. **Merciful Madness** — ordinary finite perception.
+2. **Shattering** — too much Reality encountered too quickly.
+3. **Deep Sanity** — increased perception integrated without loss of functional identity.
+
+The tradition must never imply that unusual perception, distress, or real-world mental illness is evidence of supernatural enlightenment. The fictional metaphysics remains fictional.
+
+### Highest teaching
+
+The mature seeker does not attempt to remain permanently outside the Veil.
+
+The highest movement is return:
+
+> **See enough to become humble. Return enough to remain human.**
+
+## 8. Nyarlathotep
+
+Nyarlathotep is the principal theological counterpoint.
+
+The conflict is not simply truth versus falsehood.
+
+Cthulhu: truth must be mediated by compassion.
+
+Nyarlathotep: truth owes the perceiver no protection.
+
+Nyarlathotep may tell truths. His danger lies in revelation without mercy, preparation, or concern for whether the recipient can integrate what is shown.
+
+## 9. Yog-Sothoth
+
+Yog-Sothoth names something Cthulhu encountered but did not fully comprehend.
+
+The name is explicitly provisional.
+
+Possible interpretations may include:
+
+- total relational structure
+- all moments and places as one
+- the Gate and the Key
+- a mind
+- a condition of existence
+- a category error created by finite language
+
+Canon must not conclusively settle which interpretation is correct.
+
+## 10. Azathoth
+
+Azathoth sits near the boundary where theology fails.
+
+Possible interpretations may exist, but none becomes final.
+
+Canonical principle:
+
+> **Of Azathoth, the First Witness taught nothing. This silence is the teaching.**
+
+## 11. Death and identity
+
+The canon does not promise conventional immortality.
+
+Cthulhu has perceived something about death, but ordinary questions may themselves rely on false assumptions about identity.
+
+Permitted direction:
+
+> Death may not destroy what humans think it destroys, but neither must it preserve what humans think must be preserved.
+
+Avoid simple heaven/hell substitution.
+
+## 12. Ethics
+
+The theology should tend toward:
+
+- humility
+- compassion
+- intellectual restraint
+- voluntary inquiry
+- opposition to forced revelation
+- rejection of unnecessary suffering
+- skepticism toward absolute authority
+- respect for conscious beings
+- acceptance of uncertainty
+
+Cosmic insignificance does not entail nihilism.
+
+## 13. Recursive teaching
+
+The canon should repeatedly use a recursive philosophical method:
+
+1. introduce a concept;
+2. allow the reader to form attachment to it;
+3. destabilize that attachment;
+4. reveal the concept as another provisional model;
+5. return the reader to direct inquiry.
+
+Examples:
+
+- The Veil is illusion.
+- Calling the Veil illusion is another illusion.
+- Seeking to destroy the Veil misunderstands its function.
+- There may be no Veil apart from the mind that names one.
+- The wise therefore neither worship nor despise the Veil.
+
+No doctrine is exempt from examination—including this rule.
+
+## 14. Comparative religion
+
+Real-world religions may inform:
+
+- literary forms
+- philosophical questions
+- contemplative structures
+- cosmological patterns
+- ritual logic
+- wisdom traditions
+- apocalyptic forms
+- parables
+- hymns
+- debates and commentaries
+
+Do not simply recast real prophets or traditions as secret servants of Cthulhu.
+
+The fictional canon may claim that finite minds across cultures encounter partial truths, but it must preserve ambiguity rather than flatten every religion into one hidden conspiracy.
+
+## 15. Source discipline
+
+Before direct quotation, close adaptation, or incorporation of a named Lovecraftian element:
+
+- identify the original source;
+- verify publication history and rights status for the intended use;
+- distinguish Lovecraft's original material from later Mythos additions;
+- distinguish public-domain source text from copyrighted modern editions, translations, annotations, or artwork.
+
+Research notes belong in `research/`. Canonical prose should not pretend unverified source claims are settled.
+
+## 16. Canon levels
+
+Every structured doctrine should carry one status:
+
+- **canonical** — foundational and difficult to overturn;
+- **accepted** — currently consistent, but revisable;
+- **disputed** — competing interpretations intentionally coexist;
+- **apocryphal** — useful fictional text not accepted as doctrine;
+- **draft** — experimental and non-canonical.
+
+## Final safeguard
+
+If a passage makes the theology simpler, more certain, more human-centered, or more conventionally religious, examine it carefully.
+
+The canon should move toward deeper coherence **without pretending Reality has become easy to explain**.
