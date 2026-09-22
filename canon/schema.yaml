@@ -134,7 +134,7 @@ example:
     yog_sothoth: "encountered mystery beyond complete comprehension"
 
   scripture_sources:
-    - "scripture/01_sutra_sleeping_witness.md"
+    - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
   research_sources: []
 
