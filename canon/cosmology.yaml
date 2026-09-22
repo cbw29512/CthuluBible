@@ -1,0 +1,55 @@
+hierarchy:
+  - level: nameless_source
+    description: >
+      Beneath or behind everything else. Never directly characterized in canon;
+      any scripture that describes it directly should be treated as unreliable
+      or metaphorical.
+
+  - level: outer_powers
+    members: [azathoth, yog_sothoth]
+    description: >
+      Entities or conditions at the edge of what language can represent.
+      Doctrines about them remain deliberately incomplete.
+
+  - level: great_dreamers
+    members: [cthulhu]
+    description: >
+      Beings who crossed into True Reality and returned with enough individuality
+      to communicate, however imperfectly.
+
+  - level: lesser_messengers
+    members: [nyarlathotep]
+    description: >
+      Interpreters and intermediaries who responded to Reality differently
+      from the First Witness.
+
+  - level: humanity
+    description: >
+      Finite, embodied consciousness dependent on the Veil to function.
+
+true_reality:
+  definition: >
+    The condition in which distinctions required by finite consciousness
+    — self/other, before/after, living/dead, observer/observed, and
+    possibility/actuality — are no longer maintained.
+  properties:
+    - not inherently evil or benevolent
+    - incompatible with ordinary individual perception
+    - may dissolve the perceiver conceptually rather than physically
+    - cannot be transmitted directly to a finite mind without risk
+
+the_veil:
+  definition: >
+    The condition that permits a creature to remain a distinct creature:
+    the approximations finite consciousness requires to function.
+  status: >
+    Both limitation and mercy; never resolved as purely one or the other.
+  canonical_paradox: >
+    There is no Veil apart from the mind that names it. Yet the wise do not
+    therefore tear away what they have called the Veil.
+
+locations:
+  rlyeh:
+    description: >
+      Cthulhu's voluntary containment, sanctuary, and threshold.
+    canonical_status: chosen_not_imposed
