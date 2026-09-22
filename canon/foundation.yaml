@@ -1,0 +1,146 @@
+schema_version: "0.1"
+
+records:
+  - id: first_witness
+    canonical_name: "The First Witness"
+    aliases:
+      - "The First Sane"
+      - "The Sleeping Witness"
+    category: entity
+    status: canonical
+    core_truth: >-
+      Cthulhu was the first known being to experience True Reality and
+      return with enough individuality to communicate.
+    public_teaching: >-
+      Seek understanding, but do not seek unrestricted revelation.
+    deeper_teaching: >-
+      Cthulhu discovered that complete perception is not simply greater
+      knowledge; it destabilizes the distinctions required by finite identity.
+    paradoxes:
+      - "The First Awakened teaches others not to awaken as he did."
+      - "He entered Reality seeking truth and returned teaching restraint."
+      - "He reveals by withholding."
+    prohibitions:
+      - "Cthulhu is not omniscient."
+      - "Cthulhu is not the supreme creator."
+      - "Worship of Cthulhu is not the doctrinal goal."
+    symbols:
+      - "closed eye beneath the sea"
+      - "empty altar"
+    relationships:
+      veil: "protective limitation"
+      great_sleep: "voluntary containment"
+      dream: "filtered revelation"
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+    research_sources: []
+    open_questions:
+      - "How much singular identity remains after the First Seeing?"
+    notes: >-
+      Compassion must never make Cthulhu psychologically ordinary or human.
+
+  - id: veil
+    canonical_name: "The Veil"
+    aliases:
+      - "Merciful Madness"
+      - "The Soft Blindness"
+    category: doctrine
+    status: canonical
+    core_truth: >-
+      The Veil is the finite mind's survivable model of Reality.
+    public_teaching: >-
+      Ordinary perception is incomplete, but incompleteness protects finite life.
+    deeper_teaching: >-
+      The distinctions produced by the Veil may be provisional, yet finite
+      consciousness depends upon them in order to function as an individual.
+    paradoxes:
+      - "The Veil conceals Reality and makes experience possible."
+      - "Calling the Veil an illusion can become another illusion."
+      - "The seeker who hates the Veil still clings to a concept of the Veil."
+    prohibitions:
+      - "Do not reduce the Veil to an evil deception."
+      - "Do not make destruction of the Veil the goal."
+    symbols:
+      - "surface of the ocean"
+      - "closed eyelid"
+    relationships:
+      first_witness: "the one who crossed beyond it"
+      dream: "controlled permeability"
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+    research_sources: []
+    open_questions:
+      - "Is the Veil inherent to all finite minds or specific to kinds of consciousness?"
+    notes: >-
+      The Veil is both limitation and mercy.
+
+  - id: great_sleep
+    canonical_name: "The Great Sleep"
+    aliases:
+      - "The Great Contemplation"
+    category: doctrine
+    status: canonical
+    core_truth: >-
+      Cthulhu's sleep is voluntary containment undertaken after the First Seeing.
+    public_teaching: >-
+      The First Witness withdrew so that lesser minds would not be exposed
+      directly to his awakened consciousness.
+    deeper_teaching: >-
+      Sleep may be the only state in which Cthulhu can remain connected to
+      finite existence without overwhelming it.
+    paradoxes:
+      - "He withdrew from the world in order to remain present to it."
+      - "His sleep is more active than ordinary waking."
+    prohibitions:
+      - "Do not treat the Great Sleep solely as imprisonment."
+      - "Do not make awakening Cthulhu the default religious objective."
+    symbols:
+      - "sunken city"
+      - "still black water"
+    relationships:
+      rlyeh: "sanctuary and containment"
+      dream: "means of mediated contact"
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+    research_sources: []
+    open_questions:
+      - "Was R'lyeh built before or after the First Seeing?"
+    notes: >-
+      Later sects may misunderstand the Sleep as imprisonment or prophecy of conquest.
+
+  - id: dream
+    canonical_name: "The Dream"
+    aliases:
+      - "The Flood of Sanity"
+    category: cosmology
+    status: canonical
+    core_truth: >-
+      The Dream filters aspects of True Reality into forms finite minds may survive.
+    public_teaching: >-
+      Revelation arrives indirectly because direct revelation can destroy
+      the recipient's capacity to understand.
+    deeper_teaching: >-
+      The Dream reveals Reality precisely by concealing most of it.
+    paradoxes:
+      - "The merciful revelation is incomplete by design."
+      - "The Flood of Sanity preserves what humans call sanity."
+      - "The clearer the transmission, the greater the danger."
+    prohibitions:
+      - "Do not treat the Dream as mind control."
+      - "Do not assume every dream, vision, or unusual mental state is revelation."
+      - "Do not equate real-world mental illness with supernatural insight."
+    symbols:
+      - "rising tide"
+      - "distant song beneath water"
+    relationships:
+      first_witness: "source and translator"
+      veil: "selective crossing"
+      nyarlathotep: "opposed method of unfiltered revelation"
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+    research_sources: []
+    open_questions:
+      - "How intentional is each individual dream?"
+      - "Can other awakened beings mediate Reality safely?"
+    notes: >-
+      The phrase Flood of Sanity should retain both beauty and threat.
