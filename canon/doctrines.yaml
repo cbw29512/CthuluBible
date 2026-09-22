@@ -1,0 +1,95 @@
+doctrines:
+  - id: first_witness
+    canonical_name: "The First Witness"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      Cthulhu was the first known being to experience True Reality and return
+      with enough individuality to communicate.
+    public_teaching: >
+      Seek understanding, but do not seek unrestricted revelation.
+    deeper_teaching: >
+      True Reality dissolves distinctions required by finite consciousness.
+    paradoxes:
+      - "The First Awakened teaches others not to awaken as he did."
+      - "He reveals by withholding."
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+
+  - id: great_sleep
+    canonical_name: "The Great Sleep"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      Cthulhu's withdrawal beneath R'lyeh was voluntary and protective.
+    public_teaching: >
+      The Sleeper rests so that the waking may continue.
+    deeper_teaching: >
+      His awakened awareness endangered lesser minds simply through proximity.
+    paradoxes:
+      - "The greatest sacrifice looks, from outside, like retreat."
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+
+  - id: the_dream
+    canonical_name: "The Dream"
+    aliases:
+      - "The Flood of Sanity"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      Cthulhu's dreaming mind converts fragments of True Reality into forms
+      finite consciousness may survive.
+    public_teaching: >
+      What reaches you has already been made survivable.
+    deeper_teaching: >
+      The Dream reveals Reality by concealing most of it.
+    paradoxes:
+      - "The merciful revelation is incomplete by design."
+      - "The Flood of Sanity preserves what ordinary minds call sanity."
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
+
+  - id: non_worship
+    canonical_name: "The Command Against Worship"
+    category: ethical_principle
+    status: canonical
+    core_truth: >
+      Fixation on Cthulhu increases orientation toward the consciousness from
+      which the Dream protects finite minds.
+    public_teaching: "Do not worship Cthulhu."
+    deeper_teaching: >
+      A perfect icon would be sacrilege because accuracy would increase contact.
+    paradoxes:
+      - "People worship him for telling them not to."
+
+  - id: death_and_identity
+    canonical_name: "On Death"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      Death may not destroy what people believe it destroys, and may not
+      preserve what people believe must be preserved.
+    public_teaching: >
+      Which of the things you call "I" do you wish to preserve?
+    deeper_teaching: >
+      The question "Will I exist after death?" may itself depend on a false
+      assumption that "I" names one stable thing.
+    paradoxes:
+      - "The teaching promises neither immortality nor annihilation."
+
+  - id: highest_attainment
+    canonical_name: "The Return"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      The highest awakening available to a finite mind is choosing to return
+      to the dream rather than trying to escape it permanently.
+    public_teaching: "Glimpse the abyss. Then go home."
+    deeper_teaching: >
+      Finite life has value as finite life even if its categories dissolve at
+      deeper levels of Reality.
+    paradoxes:
+      - "The novice seeks escape from illusion; the master seeks re-entry into it."
+    scripture_sources:
+      - "scripture/01_sutra_sleeping_witness.md"
