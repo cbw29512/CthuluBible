@@ -14,7 +14,7 @@ doctrines:
       - "The First Awakened teaches others not to awaken as he did."
       - "He reveals by withholding."
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
   - id: great_sleep
     canonical_name: "The Great Sleep"
@@ -29,7 +29,7 @@ doctrines:
     paradoxes:
       - "The greatest sacrifice looks, from outside, like retreat."
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
   - id: the_dream
     canonical_name: "The Dream"
@@ -48,7 +48,7 @@ doctrines:
       - "The merciful revelation is incomplete by design."
       - "The Flood of Sanity preserves what ordinary minds call sanity."
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
   - id: non_worship
     canonical_name: "The Command Against Worship"
@@ -92,4 +92,4 @@ doctrines:
     paradoxes:
       - "The novice seeks escape from illusion; the master seeks re-entry into it."
     scripture_sources:
-      - "scripture/01_sutra_sleeping_witness.md"
+      - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
