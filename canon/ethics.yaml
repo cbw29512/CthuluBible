@@ -1,0 +1,34 @@
+virtues:
+  - id: compassion
+    description: >
+      Greater perspective should reduce cruelty and ego rather than increase
+      contempt for finite beings.
+
+  - id: humility
+    description: >
+      Modeled on Cthulhu's withdrawal: power and insight are reasons for
+      restraint, not display.
+
+  - id: non_attachment_to_answers
+    description: >
+      Revisit settled conclusions and test whether certainty itself has become
+      another Veil.
+
+  - id: acceptance_of_finitude
+    description: >
+      Choose to continue an ordinary bounded life — eating, loving, mourning,
+      making things — rather than treating dissolution of the self as the goal.
+
+practices_discouraged:
+  - id: worship
+    reason: >
+      Fixation on the First Witness increases dangerous orientation toward
+      what his Dream exists to filter.
+
+  - id: forced_revelation
+    reason: >
+      Associated with Nyarlathotep's method. Exposing an unprepared mind to
+      unfiltered truth is treated as harm, not generosity.
+
+closing_instruction:
+  canonical_line: "Stay where you are. I will tell you only enough."
