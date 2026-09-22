@@ -1,0 +1,51 @@
+entities:
+  - id: cthulhu
+    canonical_name: "The First Witness"
+    aliases:
+      - "The First Sane"
+      - "The Sleeper"
+      - "The Sleeping Witness"
+    level: great_dreamers
+    summary: >
+      The first known being to fully cross the Veil, experience True Reality,
+      and return with enough individuality left to communicate. Chose the
+      Great Sleep as an act of protection rather than defeat.
+    forbidden_traits:
+      - omniscience
+      - conventional human-style benevolence
+      - desire for worship
+      - desire for conversion
+      - desire for universal awakening
+    identity_status: >
+      Intentionally unresolved. Cthulhu may be what Cthulhu was, what Cthulhu
+      will become, fragments of other minds, every dreamer who has contacted
+      him, and something that never possessed individuality in the ordinary
+      sense. Scripture must not settle this completely.
+    signature_line: "Enough to answer you."
+
+  - id: nyarlathotep
+    canonical_name: "The Herald Without Mercy"
+    level: lesser_messengers
+    summary: >
+      The principal counter-teaching to Cthulhu's restraint. Favors revelation
+      without preparation, filtering, or concern for whether a finite mind can
+      integrate what is shown.
+    method: "Undiluted truth; deception may occur, but truth itself is the deeper danger."
+    opposes: cthulhu
+    thesis: "Let us discover which minds deserve to survive it."
+
+  - id: yog_sothoth
+    canonical_name: "The Unresolved"
+    level: outer_powers
+    summary: >
+      Deliberately under-defined. No doctrine fully characterizes whether
+      Yog-Sothoth is a being, relation, totality, condition, gate, key, or a
+      category error produced by finite language.
+
+  - id: azathoth
+    canonical_name: "That Of Which Nothing Is Taught"
+    level: outer_powers
+    summary: >
+      Marks the point where language fails almost entirely.
+    canonical_line: >
+      Of Azathoth, the First Witness taught nothing. This silence is the teaching.
