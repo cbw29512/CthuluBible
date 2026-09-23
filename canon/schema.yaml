@@ -93,7 +93,6 @@ example:
   id: first_witness
   canonical_name: "The First Witness"
   aliases:
-    - "The First Sane"
     - "The Sleeping Witness"
   category: entity
   status: canonical
