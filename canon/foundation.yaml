@@ -4,7 +4,6 @@ records:
   - id: first_witness
     canonical_name: "The First Witness"
     aliases:
-      - "The First Sane"
       - "The Sleeping Witness"
     category: entity
     status: canonical
@@ -42,7 +41,6 @@ records:
   - id: veil
     canonical_name: "The Veil"
     aliases:
-      - "Merciful Madness"
       - "The Soft Blindness"
     category: doctrine
     status: canonical
@@ -111,7 +109,7 @@ records:
   - id: dream
     canonical_name: "The Dream"
     aliases:
-      - "The Flood of Sanity"
+      - "The Flood"
     category: cosmology
     status: canonical
     core_truth: >-
@@ -123,7 +121,7 @@ records:
       The Dream reveals Reality precisely by concealing most of it.
     paradoxes:
       - "The merciful revelation is incomplete by design."
-      - "The Flood of Sanity preserves what humans call sanity."
+      - "The Flood preserves the structures finite minds need in order to return."
       - "The clearer the transmission, the greater the danger."
     prohibitions:
       - "Do not treat the Dream as mind control."
@@ -143,4 +141,4 @@ records:
       - "How intentional is each individual dream?"
       - "Can other awakened beings mediate Reality safely?"
     notes: >-
-      The phrase Flood of Sanity should retain both beauty and threat.
+      The Flood should retain both beauty and threat without explaining its meaning too directly.
