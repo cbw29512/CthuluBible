@@ -2,7 +2,6 @@ entities:
   - id: cthulhu
     canonical_name: "The First Witness"
     aliases:
-      - "The First Sane"
       - "The Sleeper"
       - "The Sleeping Witness"
     level: great_dreamers
