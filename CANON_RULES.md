@@ -50,7 +50,6 @@ Therefore:
 Canonical roles:
 
 - The First Witness
-- The First Sane
 - The Sleeping Witness
 - The Prophet Beneath the Waters
 - The One Who Saw Without Veils
@@ -94,7 +93,7 @@ True Reality cannot be transmitted directly without risk. Cthulhu's dreaming con
 - moments of ego dissolution
 - flashes of compassion or cosmic perspective
 
-This filtered transmission is called the **Flood of Sanity**.
+This filtered transmission is called **the Flood**.
 
 The Flood must never be treated as simple mind control, conversion, or benevolent propaganda.
 
@@ -118,9 +117,9 @@ Awakening is not automatically good.
 
 There are at least three broad states:
 
-1. **Merciful Madness** — ordinary finite perception.
+1. **Veiled Seeing** — ordinary finite perception.
 2. **Shattering** — too much Reality encountered too quickly.
-3. **Deep Sanity** — increased perception integrated without loss of functional identity.
+3. **Bearing the Sight** — increased perception integrated without loss of functional identity.
 
 The tradition must never imply that unusual perception, distress, or real-world mental illness is evidence of supernatural enlightenment. The fictional metaphysics remains fictional.
 
