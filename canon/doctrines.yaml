@@ -34,7 +34,7 @@ doctrines:
   - id: the_dream
     canonical_name: "The Dream"
     aliases:
-      - "The Flood of Sanity"
+      - "The Flood"
     category: doctrine
     status: canonical
     core_truth: >
@@ -46,7 +46,7 @@ doctrines:
       The Dream reveals Reality by concealing most of it.
     paradoxes:
       - "The merciful revelation is incomplete by design."
-      - "The Flood of Sanity preserves what ordinary minds call sanity."
+      - "The Flood reveals without stripping away every shelter at once."
     scripture_sources:
       - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
