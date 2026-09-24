@@ -1,5 +1,9 @@
 # 01 — The Book of First Seeing
 
-Reserved. Not yet drafted.
+In progress.
 
-Intended scope: Cthulhu's original crossing of the Veil and encounter with True Reality. It should establish the First Witness and lead toward the Great Sleep without pretending to explain True Reality completely.
+Scope: Cthulhu's original crossing of the Veil and encounter with True Reality, followed by the difficult return to finite relation. The book establishes the First Witness and develops the first lived reasons for restraint, mediated contact, and eventual voluntary withdrawal without pretending to explain True Reality completely.
+
+Current movement: seeking → crossing → return → recovered measure → chosen limitation → dangerous proximity → protective distance → mediated relationship → refusal of false certainty.
+
+The book should lead toward the Great Sleep without beginning it prematurely.
