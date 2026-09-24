@@ -7,6 +7,15 @@ symbols:
     meaning: >
       The most faithful representation of Cthulhu. A filled altar risks
       converting restraint into worship.
+    historical_seed: >
+      Before any formal altar existed, the First Witness answered attempted
+      veneration by vacating the honored place rather than occupying it.
+      Later empty altars may remember this refusal, but the emptiness itself
+      must not become an unquestioned object of devotion.
+    recursive_warning: >
+      If the empty place is treated as possessing sacred power merely because
+      it is empty, the symbol has reproduced the attachment it was meant to
+      interrupt.
 
   - id: closed_eye
     meaning: >
