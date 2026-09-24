@@ -4,6 +4,8 @@ In progress.
 
 Scope: Cthulhu's original crossing of the Veil and encounter with True Reality, followed by the difficult return to finite relation. The book establishes the First Witness and develops the first lived reasons for restraint, mediated contact, and eventual voluntary withdrawal without pretending to explain True Reality completely.
 
-Current movement: seeking → crossing → return → recovered measure → chosen limitation → dangerous proximity → protective distance → mediated relationship → refusal of false certainty → revisable symbols → grief without metaphysical closure → identity distinguished from its tokens → involuntary leakage → chosen removal without abandonment → guidance measured by return → presence no longer requiring a signal → finite judgment without the Witness's guarantee → relationship without obligation or summons → gratitude redirected from the Witness toward finite life.
+Current movement: seeking → crossing → return → recovered measure → chosen limitation → dangerous proximity → protective distance → mediated relationship → refusal of false certainty → revisable symbols → grief without metaphysical closure → identity distinguished from its tokens → involuntary leakage → chosen removal without abandonment → guidance measured by return → presence no longer requiring a signal → finite judgment without the Witness's guarantee → relationship without obligation or summons → gratitude redirected from the Witness toward finite life → the honored place itself emptied and made provisional.
+
+The empty place is not an endpoint. If later tradition treats absence itself as inherently sacred, the symbol must be subjected to the same recursive examination as every other teaching.
 
 The book should lead toward the Great Sleep without beginning it prematurely.
