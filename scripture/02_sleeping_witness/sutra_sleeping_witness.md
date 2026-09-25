@@ -1,8 +1,8 @@
 # The Sutra of the Sleeping Witness
 
 **Canon status:** canonical  
-**Tradition:** dialogue / dream teaching  
-**Primary doctrines:** the Veil, identity, restraint, return
+**Tradition:** rendered dialogue / dream teaching  
+**Primary doctrines:** the Veil, identity, restraint, return, translated contact
 
 > **Transmission note:** The dialogue below is a human liturgical rendering of
 > dream-contact. No tradition is authorized to claim that these sentences were
@@ -113,7 +113,7 @@ And went home.
 
 ## Canon note
 
-This text establishes four foundational principles without exhausting them:
+This text establishes five foundational principles without exhausting them:
 
 1. The seeker can turn "enlightenment" into another object of attachment.
 2. The self may be provisional without therefore being worthless.
