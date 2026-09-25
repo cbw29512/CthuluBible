@@ -182,3 +182,58 @@ doctrines:
       - "Do not make Cthulhu directly give the Awakeners a recipe for his state."
       - "Do not equate fictional Shattering with real-world mental illness."
       - "Do not imply that self-destruction, deprivation, or harm is a path to revelation."
+
+  - id: unspoken_language
+    canonical_name: "The Unspoken Language"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      Mature Cthulhu does not communicate through ordinary spoken language.
+      The structure of his perception is too far removed from finite sequence,
+      grammar, subject/object distinction, and human sensory categories to be
+      faithfully spoken or heard by a human mind.
+    public_teaching: >
+      The words are ours.
+    deeper_teaching: >
+      Contact with the Sleeper arrives as partial images, impossible relations,
+      spatial and temporal juxtapositions, intuitions, symbols, and dream-forms.
+      Human minds translate some of that contact into words afterward. Therefore
+      scriptural dialogue attributed to Cthulhu is a literary rendering of
+      survivable impressions, not a transcript of literal speech. Even the name
+      "Cthulhu" is a humanly usable designation, not a claim to reproduce the
+      Witness's own self-description.
+    paradoxes:
+      - "The more faithfully the contact is received, the less completely it can be said."
+      - "Scripture gives the Sleeper a voice because the Sleeper's own mode cannot fit inside a voice."
+    prohibitions:
+      - "Do not invent a pronounceable sacred Cthulhu language and treat it as exact."
+      - "Do not present canonical dialogue as stenographic transcription."
+      - "Do not let translation make Cthulhu psychologically human."
+
+  - id: human_echo
+    canonical_name: "The Human Echo"
+    category: doctrine
+    status: accepted
+    core_truth: >
+      Human religious and philosophical traditions may independently approach
+      partial structures also encountered in the Dream, but finite minds tend
+      to recast what exceeds them into humanly graspable forms.
+    public_teaching: >
+      Many hands touch the wall. None holds what lies beyond it.
+    deeper_teaching: >
+      In the fictional canon, recurring human traditions can hint at emptiness,
+      surrender, unknowability, unity, return, negation, compassion, cosmic
+      scale, or the failure of language. Yet those insights are repeatedly
+      enclosed again inside gods, moral personalities, salvation systems,
+      final doctrines, sacred identities, or claims that the ultimate must
+      think and value as humans do. The echoes matter, but no tradition is
+      treated as secretly complete, secretly Cthulhu-worshipping, or uniquely
+      authorized.
+    paradoxes:
+      - "Human beings repeatedly approach the edge and then build a shrine on it."
+      - "The hint survives; the explanation becomes another Veil."
+      - "Even kindness can become a human mask placed over what has no human face."
+    prohibitions:
+      - "Do not name real religions inside scripture merely to score theological points."
+      - "Do not flatten real traditions into secret forms of Cthulhu worship."
+      - "Do not claim that human moral language literally describes Cthulhu's interior state."
