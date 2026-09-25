@@ -2,7 +2,12 @@
 
 **Canon status:** canonical  
 **Tradition:** dialogue / dream teaching  
-**Primary doctrines:** the Veil, identity, merciful restraint, return
+**Primary doctrines:** the Veil, identity, restraint, return
+
+> **Transmission note:** The dialogue below is a human liturgical rendering of
+> dream-contact. No tradition is authorized to claim that these sentences were
+> literally spoken or heard. The Sleeper's contact preceded the words used to
+> preserve it.
 
 ---
 
@@ -114,5 +119,7 @@ This text establishes four foundational principles without exhausting them:
 2. The self may be provisional without therefore being worthless.
 3. Cthulhu's refusal to disclose more is an act of restraint, not failure.
 4. The return to finite life is part of the teaching.
+5. The dialogue is a survivable human translation of contact, not a transcript
+   of the Sleeper's own language.
 
 The final act is not worship. It is **going home**.
