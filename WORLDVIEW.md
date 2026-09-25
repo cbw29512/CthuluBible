@@ -24,11 +24,17 @@ Cthulhu was the first being known to fully cross the Veil and return with enough
 
 His enlightenment did not confirm that awakening is good. It revealed that perfect perception can dissolve the distinctions required for a perceiver to remain a distinct individual.
 
+Within that Seeing, ordinary temporal sequence did not remain intact. Cthulhu encountered what finite minds describe as the birth and death of the universe. This is not omniscience and does not mean he merely lived through cosmic history in sequence. It means the words before, after, beginning, and ending were no longer sufficient boundaries for what he witnessed.
+
+The scale of that experience progressively remade him. Human thoughts and emotions become increasingly poor descriptions of his interior state. Words such as compassion, indifference, grief, love, and weariness may describe how humans interpret his effects, but they should not be treated as reliable explanations of mature Cthulhu.
+
 ## The Great Sleep
 
 Cthulhu's withdrawal beneath R'lyeh is voluntary.
 
-Nearby minds began perceiving things they were not built to perceive simply from proximity to his awakened awareness. He entered the Great Sleep as an act of protection.
+Nearby minds began perceiving things they were not built to perceive simply from proximity to his awakened awareness. But protection of finite minds is only the human-facing side of the event.
+
+The Great Sleep also becomes the condition most consonant with what Cthulhu has become: a consciousness shaped by scales for which ordinary waking sequence, human conversation, and finite attention are increasingly inadequate. He does not simply become tired. He comes to prefer stillness, sleep, and dream because those states can contain, diffuse, or translate what waking presence cannot.
 
 R'lyeh is therefore sanctuary, monastery, threshold, and containment — not merely a prison.
 
@@ -36,11 +42,11 @@ R'lyeh is therefore sanctuary, monastery, threshold, and containment — not mer
 
 Cthulhu does not transmit True Reality directly.
 
-His dreaming consciousness converts fragments of it into symbols, intuitions, myths, art, mathematics, mystical experience, compassion, and other forms a finite mind may survive.
+His dreaming consciousness converts fragments of it into symbols, intuitions, myths, art, mathematics, mystical experience, compassion, and other forms a finite mind may survive. Those human-readable forms need not be Cthulhu's own thoughts or emotions; they are translations.
 
 He does not simply reveal Reality.
 
-He protects Reality from us, and us from Reality.
+He reduces contact into forms that finite minds can encounter without requiring his waking mode to become human again.
 
 ## Worship as a problem
 
@@ -54,15 +60,11 @@ The most faithful representation of him may be an empty altar.
 
 ## Nyarlathotep
 
-Where Cthulhu responded to True Reality with restraint, Nyarlathotep responds with contempt for limitation.
-
-He favors exposure without preparation, symbols, filtering, or mercy.
+Where Cthulhu's path becomes restraint and mediated contact, Nyarlathotep favors exposure without preparation, symbols, filtering, or mercy.
 
 He need not always lie. Undiluted truth can itself become destructive.
 
-Cthulhu preserves the conditions under which finite minds can learn.
-
-Nyarlathotep tears those conditions away.
+The contrast is not simply a compassionate being against a cruel one. It is a difference in relation to limitation: one preserves enough boundary for finite experience to continue; the other does not treat that boundary as deserving preservation.
 
 ## Yog-Sothoth and Azathoth
 
@@ -91,3 +93,5 @@ The advanced student wants True Reality.
 The master understands that the highest awakening available to a finite mind is choosing to return to the dream — not because the dream is literally true, but because finite life has value as finite life.
 
 The ideal disciple glimpses the abyss and comes home.
+
+Cthulhu is not the model because he became perfectly human. He is the warning precisely because he did not.
