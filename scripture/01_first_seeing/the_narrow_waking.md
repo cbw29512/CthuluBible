@@ -6,13 +6,25 @@ He had not moved from the stone above the water.
 
 The keeper sat beside him until dawn began to thin the dark.
 
-At last the Witness said, “They are separating.”
+At last something reached the keeper as separation.
+
+Moments pulling apart.
+
+Stars collapsing into points.
+
+Water forced beneath stone.
+
+The dead placed behind the living.
+
+The beginning pushed behind what came after.
+
+The keeper later rendered the first part as dialogue:
+
+“They are separating.”
 
 “What is?”
 
 “The moments.”
-
-The keeper waited.
 
 “The stars are becoming points again.”
 
@@ -32,13 +44,15 @@ The keeper did not answer.
 
 “The beginning is behind me.”
 
-He closed his eyes.
+The Witness closed his eyes.
 
 For the first time, the keeper was afraid not of what the Witness could see, but of what he was losing.
 
 “Is this returning?”
 
-The Witness opened his eyes.
+The answer came as two different movements: one chosen, one imposed.
+
+The keeper wrote:
 
 “Returning is chosen.”
 
@@ -52,6 +66,10 @@ One stone beneath it.
 
 One dawn coming after one night.
 
+The keeper had no word for what entered him then.
+
+Years later he chose one:
+
 “Constriction.”
 
 The keeper thought of the village below, where everyone woke each morning into exactly such a world.
@@ -60,19 +78,21 @@ The keeper thought of the village below, where everyone woke each morning into e
 
 The Witness looked at him.
 
-The keeper immediately wished he had not spoken.
+The keeper immediately wished he had spoken.
+
+What followed contained no anger, but neither did it contain anything the keeper could call kindness.
+
+He preserved only:
 
 “Like you?”
 
-The words contained no anger.
+After a long silence came the image of walls no longer recognized as walls.
 
-That made them worse.
+A room mistaken for the world.
 
-After a long silence the Witness said:
+The keeper wrote:
 
 “If I remain, the walls will cease to feel like walls.”
-
-The keeper frowned.
 
 “And then?”
 
@@ -84,9 +104,13 @@ For an instant the keeper saw him only as a figure against the sea.
 
 Then the figure seemed too small for what occupied it.
 
+Another meaning arrived: wakefulness had already lasted too long.
+
+The keeper rendered it:
+
 “I have been awake too long.”
 
-He descended toward the black water.
+The Witness descended toward the black water.
 
 The keeper called after him.
 
@@ -94,15 +118,21 @@ The keeper called after him.
 
 The Witness stopped at the edge.
 
+The answer was immediate.
+
 “No.”
 
 “Then what does it do?”
 
 The Witness looked toward the horizon.
 
+The keeper dreamed the answer before he understood it: a door that remained open only after the house disappeared.
+
+Later he wrote:
+
 “It leaves the door open.”
 
-Then he entered the sea.
+Then the Witness entered the sea.
 
 That night the keeper dreamed of a door opening into a room with no walls.
 
