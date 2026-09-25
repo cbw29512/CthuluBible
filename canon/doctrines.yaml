@@ -93,3 +93,24 @@ doctrines:
       - "The novice seeks escape from illusion; the master seeks re-entry into it."
     scripture_sources:
       - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
+  - id: mediated_presence
+    canonical_name: "Presence by Lessening"
+    category: doctrine
+    status: accepted
+    core_truth: >
+      Cthulhu's withdrawal revealed that contact could become safer when his
+      waking presence was reduced rather than brought nearer.
+    public_teaching: >
+      Nearness is not the only form of presence.
+    deeper_teaching: >
+      Before the Great Sleep was fully chosen, Cthulhu discovered that absence
+      could weaken fixation while faint, indirect impressions still crossed the
+      distance. This became one experiential root of the later Dream, but no
+      individual dream is thereby guaranteed to be revelation.
+    paradoxes:
+      - "He became safer to approach by becoming harder to approach."
+      - "What remained across absence could carry more mercy than direct presence."
+    prohibitions:
+      - "Do not treat every dream as contact with the First Witness."
+      - "Do not make absence itself holy or withdrawal the goal of finite life."
+
