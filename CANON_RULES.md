@@ -99,6 +99,12 @@ True Reality cannot be transmitted directly without risk. Cthulhu's dreaming con
 
 These forms need not express Cthulhu's own emotions. They are finite translations.
 
+Cthulhu's mature mode of communication is not an ordinary spoken language.
+Humans cannot faithfully pronounce, hear, or transcribe it because its structure
+does not depend on the same sequence, separations, or sensory categories as
+human speech. Scriptural dialogue is therefore a human rendering of dream-contact,
+not a literal transcript.
+
 This filtered transmission is called **the Flood**.
 
 The Flood must never be treated as simple mind control, conversion, or benevolent propaganda.
@@ -230,7 +236,7 @@ No doctrine is exempt from examination—including this rule.
 
 ## 14. Comparative religion
 
-Real-world religions may inform:
+Real-world religions may inform the project **invisibly**:
 
 - literary forms
 - philosophical questions
@@ -245,7 +251,16 @@ Real-world religions may inform:
 
 Do not simply recast real prophets or traditions as secret servants of Cthulhu.
 
-The fictional canon may claim that finite minds across cultures encounter partial truths, but it must preserve ambiguity rather than flatten every religion into one hidden conspiracy.
+The fictional canon may suggest that many human traditions independently touch
+partial structures also encountered through the Dream. Their recurring failure
+is not that they are foolish, but that finite minds naturally translate what
+exceeds them back into finite categories: gods, personalities, goodness,
+salvation, identities, laws, or final answers. None is secretly complete.
+
+Scripture should normally leave those parallels unnamed. The influence should
+be felt in structure and intent rather than announced as comparison.
+
+Preserve ambiguity rather than flatten every religion into one hidden conspiracy.
 
 ## 15. Source discipline
 
