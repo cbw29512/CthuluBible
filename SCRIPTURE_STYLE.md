@@ -68,6 +68,19 @@ Prefer a scholar who completes an impossible proof, quietly erases the last line
 
 ## Cthulhu's voice
 
+Cthulhu's mature communication is not literal human speech.
+
+When scripture places words in Cthulhu's mouth, treat them as a human literary
+translation of dream-contact, image, relation, pressure, juxtaposition, or
+survivable impression. The quotation marks do **not** imply that a human ear
+heard a phonetic sentence.
+
+A useful internal test is:
+
+> **Could the same contact have been received without words?**
+
+If not, the passage may be making Cthulhu too human.
+
 Cthulhu is:
 
 - restrained
@@ -115,6 +128,19 @@ The point is not that ordinary life is secretly ultimate.
 
 The point is that finite life remains worth inhabiting.
 
+## Invisible comparative influence
+
+Comparative religious influence should remain mostly invisible in scripture.
+Borrow structures, questions, paradoxes, negative theology, surrender, return,
+non-attainment, silence, and recursive dismantling without naming a real-world
+tradition simply to announce the parallel.
+
+Within the fictional theology, human traditions may repeatedly approach partial
+truths and then enclose them again in human categories such as deity,
+personality, goodness, salvation, authority, or final doctrine. Show that
+pattern through fictional seekers, sects, arguments, rituals, and failures
+rather than direct attacks on named religions.
+
 ## Prohibitions
 
 Canonical scripture should not:
@@ -127,6 +153,8 @@ Canonical scripture should not:
 - turn real religions into secret Cthulhu cults;
 - settle Yog-Sothoth or Azathoth into simple definitions;
 - make Cthulhu psychologically human;
+- imply that Cthulhu's exact language can be pronounced or transcribed;
+- use named real religions as targets of ridicule or as secret Cthulhu sects;
 - explain every symbol after using it.
 
 ## Final test
