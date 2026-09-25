@@ -16,18 +16,52 @@ doctrines:
     scripture_sources:
       - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
+  - id: vast_witness
+    canonical_name: "The Vastness of the Witness"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      In the First Seeing, Cthulhu encountered the universe outside ordinary
+      sequence, including what finite minds call its beginning and its ending,
+      without thereby becoming omniscient.
+    public_teaching: >
+      He has witnessed the first light and the last dark, and still does not
+      claim the whole.
+    deeper_teaching: >
+      The scale of the Seeing altered Cthulhu beyond ordinary human categories
+      of thought and feeling. Compassion, cruelty, grief, love, fatigue, and
+      indifference may be names humans give to the effects of his actions, but
+      mature scripture must not assume those emotions explain his interior
+      state. The vastness of his awareness increasingly inclines him toward
+      sleep and dream, where contact can be filtered and waking scale no longer
+      has to be forced into finite sequence.
+    paradoxes:
+      - "He witnessed an ending without standing after it."
+      - "The more he saw, the less humanly describable his reasons became."
+      - "The one who has seen the greatest span chooses the smallest outward motion."
+    prohibitions:
+      - "Do not treat this as omniscience."
+      - "Do not narrate mature Cthulhu as simply compassionate, cruel, tired, or bored."
+      - "Do not make the Great Sleep ordinary exhaustion."
+
   - id: great_sleep
     canonical_name: "The Great Sleep"
     category: doctrine
     status: canonical
     core_truth: >
-      Cthulhu's withdrawal beneath R'lyeh was voluntary and protective.
+      Cthulhu's withdrawal beneath R'lyeh was voluntary containment and a mode
+      increasingly suited to what the First Seeing had made of him.
     public_teaching: >
       The Sleeper rests so that the waking may continue.
     deeper_teaching: >
-      His awakened awareness endangered lesser minds simply through proximity.
+      His awakened awareness endangered lesser minds simply through proximity,
+      while ordinary waking relation forced an immeasurable consciousness into
+      finite sequence and scale. The Great Sleep is not ordinary fatigue and
+      need not arise from human-style compassion; it is a chosen condition in
+      which his transformed awareness can withdraw, dream, and mediate contact.
     paradoxes:
-      - "The greatest sacrifice looks, from outside, like retreat."
+      - "The being who has seen the widest horizon chooses stillness."
+      - "What humans call retreat may be the form most fitting to vast awareness."
     scripture_sources:
       - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
 
@@ -43,9 +77,11 @@ doctrines:
     public_teaching: >
       What reaches you has already been made survivable.
     deeper_teaching: >
-      The Dream reveals Reality by concealing most of it.
+      The Dream reveals Reality by concealing most of it. It is also a mode
+      increasingly consonant with a consciousness no longer naturally shaped
+      by ordinary waking sequence.
     paradoxes:
-      - "The merciful revelation is incomplete by design."
+      - "The survivable revelation is incomplete by design."
       - "The Flood reveals without stripping away every shelter at once."
     scripture_sources:
       - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
@@ -93,6 +129,7 @@ doctrines:
       - "The novice seeks escape from illusion; the master seeks re-entry into it."
     scripture_sources:
       - "scripture/02_sleeping_witness/sutra_sleeping_witness.md"
+
   - id: mediated_presence
     canonical_name: "Presence by Lessening"
     category: doctrine
@@ -109,8 +146,7 @@ doctrines:
       individual dream is thereby guaranteed to be revelation.
     paradoxes:
       - "He became safer to approach by becoming harder to approach."
-      - "What remained across absence could carry more mercy than direct presence."
+      - "What remained across absence could preserve more than direct presence."
     prohibitions:
       - "Do not treat every dream as contact with the First Witness."
       - "Do not make absence itself holy or withdrawal the goal of finite life."
-
