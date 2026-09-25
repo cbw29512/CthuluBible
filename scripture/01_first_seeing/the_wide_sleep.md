@@ -28,7 +28,12 @@ The keeper tried to turn toward the Witness.
 
 There was no direction in which to turn.
 
-A voice came without distance.
+Something reached him without sound.
+
+It was not a sentence. It contained the shape of his request, the shore below
+him, and the fact that he had mistaken waking for presence.
+
+Only after he woke would he remember it as words:
 
 “You asked me to wake.”
 
@@ -46,7 +51,9 @@ The answer did not come as words at first.
 
 The harbor became one thing without becoming one place.
 
-Then the voice said:
+Then meaning crossed the dream again.
+
+Later, the keeper wrote it this way:
 
 “More than when I wake.”
 
@@ -60,7 +67,7 @@ Because absence no longer seemed to mean what it had meant.
 
 For a long while there was no answer.
 
-At last:
+At last came an impression he could preserve only as:
 
 “To answer questions like that.”
 
