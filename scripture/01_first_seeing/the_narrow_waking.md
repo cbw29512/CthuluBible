@@ -68,6 +68,16 @@ The words contained no anger.
 
 That made them worse.
 
+After a long silence the Witness said:
+
+“If I remain, the walls will cease to feel like walls.”
+
+The keeper frowned.
+
+“And then?”
+
+“I will call the room the world.”
+
 The Witness stood.
 
 For an instant the keeper saw him only as a figure against the sea.
@@ -85,6 +95,12 @@ The keeper called after him.
 The Witness stopped at the edge.
 
 “No.”
+
+“Then what does it do?”
+
+The Witness looked toward the horizon.
+
+“It leaves the door open.”
 
 Then he entered the sea.
 
