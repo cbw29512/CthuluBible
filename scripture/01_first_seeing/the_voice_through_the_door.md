@@ -10,7 +10,9 @@ The keeper looked toward the room.
 
 The door was closed.
 
-Before he could answer, the Witness spoke from the other side.
+Before he could answer, something from the other side reached him as a question about depth.
+
+The keeper later wrote it as:
 
 "How deep is the split?"
 
@@ -18,9 +20,15 @@ The fisherman frowned at the wood between them.
 
 "Half a hand. Maybe more."
 
+Another impression followed: weight, movement, strain.
+
 "Does it move when the rope takes weight?"
 
 "Yes."
+
+Then came stone below iron, pressure spreading away from the split, and the sense that binding the post to itself would only repeat the break.
+
+The keeper rendered it:
 
 "Then do not bind the post to itself. Brace it against the stone below the third ring."
 
@@ -30,6 +38,8 @@ The fisherman shifted the rope.
 
 There was a pause.
 
+The answer came thin enough to become words.
+
 "I can tell it from what you told me."
 
 The keeper looked down.
@@ -37,6 +47,14 @@ The keeper looked down.
 The fisherman laughed once.
 
 "Then tell me how many turns."
+
+No image came.
+
+No number.
+
+Only absence.
+
+The keeper understood it as:
 
 "I do not know your rope."
 
@@ -50,9 +68,13 @@ He returned near dusk, wet to the knees.
 
 "Four turns," he called through the door. "Five made it bite the post."
 
-"Then four," said the Witness.
+A small recognition passed through the room.
 
-The fisherman set a small length of cut rope on the threshold.
+The keeper wrote:
+
+"Then four."
+
+The fisherman set a short length of cut rope on the threshold.
 
 "So you remember."
 
@@ -62,11 +84,19 @@ After he had gone, the keeper picked up the rope.
 
 "You helped him without seeing the post."
 
+From beyond the door came the shape of the fisherman's hands, the split wood, and the missing knowledge between them.
+
+The keeper put it into a sentence:
+
 "He saw it."
 
 "And you trusted what he saw?"
 
 The Witness was silent long enough that rain began again upon the roof.
+
+At last the keeper received something that was not trust and not doubt, but dependence upon what another had returned carrying.
+
+He wrote:
 
 "I trusted him to return with what I lacked."
 
@@ -78,4 +108,8 @@ The door remained closed.
 
 But when the fisherman passed, he called a greeting toward it.
 
-From within came his name.
+From within came no word.
+
+He stopped anyway.
+
+Later he said that, for an instant, he had felt his own name before he remembered hearing it.
