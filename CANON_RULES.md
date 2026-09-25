@@ -10,7 +10,7 @@ Cthulhu is the First Witness: the first known being to experience True Reality a
 
 He does **not** seek worship, conversion, obedience, or universal awakening.
 
-His deepest act of compassion is restraint.
+His deepest act is restraint. Humans may interpret that restraint as compassion, but canon must not assume a human emotion is its cause.
 
 ## 1. The Veil
 
@@ -60,25 +60,29 @@ Cthulhu is **not** to be reduced to a benevolent human-style deity.
 
 Cthulhu remains alien.
 
-His compassion comes from understanding what unrestricted perception does to finite minds.
+After the First Seeing, ordinary human categories of thought and feeling become progressively less adequate descriptions of him. Mature Cthulhu is not simply compassionate or uncompassionate, loving or indifferent, serene or exhausted. Those are finite interpretations of effects whose causes may no longer fit human psychology.
+
+Within the First Seeing, ordinary temporal sequence did not remain intact. Cthulhu encountered what finite minds call the birth and death of the universe without thereby becoming omniscient or literally occupying a chronological position after the end.
 
 ### Required paradox
 
 Cthulhu sought awakening before he understood its cost.
 
-After reaching True Reality, he concluded that others should not be forced—or casually encouraged—to follow him there.
+After reaching True Reality, he concluded that unrestricted contact between his awakened state and finite minds should not simply continue. Scripture may describe the effects as merciful, but should preserve uncertainty about whether "mercy" names his motive or only the human experience of his restraint.
 
 ## 4. The Great Sleep
 
-The Great Sleep is voluntary containment, not simple imprisonment.
+The Great Sleep is voluntary containment, not simple imprisonment or ordinary fatigue.
 
 R'lyeh functions as sanctuary, monastery, containment structure, and symbolic threshold.
 
-Cthulhu withdraws because direct proximity to his awakened consciousness can destabilize lesser minds.
+Cthulhu withdraws because direct proximity to his awakened consciousness can destabilize lesser minds, and because sleep and dream become increasingly consonant with a consciousness no longer naturally bounded by ordinary waking sequence.
+
+The Great Sleep should feel like the chosen condition of something that has seen too widely to remain simply awake in the human sense.
 
 ## 5. The Dream
 
-The Dream is a translation layer.
+The Dream is a translation layer and a mode of being suited to the transformed Witness.
 
 True Reality cannot be transmitted directly without risk. Cthulhu's dreaming consciousness reduces it into forms finite minds can sometimes survive:
 
@@ -92,6 +96,8 @@ True Reality cannot be transmitted directly without risk. Cthulhu's dreaming con
 - dreams
 - moments of ego dissolution
 - flashes of compassion or cosmic perspective
+
+These forms need not express Cthulhu's own emotions. They are finite translations.
 
 This filtered transmission is called **the Flood**.
 
@@ -137,11 +143,13 @@ Nyarlathotep is the principal theological counterpoint.
 
 The conflict is not simply truth versus falsehood.
 
-Cthulhu: truth must be mediated by compassion.
+Cthulhu's path: revelation is limited, mediated, and restrained.
 
-Nyarlathotep: truth owes the perceiver no protection.
+Nyarlathotep's path: truth owes the perceiver no protection.
 
-Nyarlathotep may tell truths. His danger lies in revelation without mercy, preparation, or concern for whether the recipient can integrate what is shown.
+Nyarlathotep may tell truths. His danger lies in revelation without measure, preparation, or concern for whether the recipient can integrate what is shown.
+
+This contrast does not require Cthulhu to possess human-style compassion. It contrasts two modes of relation to finite perceivers.
 
 ## 9. Yog-Sothoth
 
@@ -184,7 +192,7 @@ Avoid simple heaven/hell substitution.
 
 ## 12. Ethics
 
-The theology should tend toward:
+The human tradition growing around these events should tend toward:
 
 - humility
 - compassion
@@ -195,6 +203,8 @@ The theology should tend toward:
 - skepticism toward absolute authority
 - respect for conscious beings
 - acceptance of uncertainty
+
+These are human ethical responses to the canon, not a claim that mature Cthulhu shares human moral emotions.
 
 Cosmic insignificance does not entail nihilism.
 
