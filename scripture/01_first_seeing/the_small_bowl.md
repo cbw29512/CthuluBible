@@ -10,6 +10,12 @@ The keeper found the Witness watching from the rocks.
 
 “You have not come down.”
 
+The Witness turned toward the harbor.
+
+What reached the keeper was not a sentence but a failure of scale: too many lives compressed into marks too small to hold apart.
+
+He later wrote:
+
 “They are difficult to see.”
 
 The keeper looked toward the harbor. “There are hundreds of them.”
@@ -28,15 +34,21 @@ Her father knelt beside her. He did not tell her the bowl was replaceable. He ga
 
 The Witness watched longer than he had watched the arguing men.
 
-“Why that one?” he asked.
+The keeper felt a question form around the child, the shard, and the difference between them.
 
-The keeper looked down.
+“Why that one?” he wrote.
 
 “Her mother made it.”
+
+The Witness looked at the clay.
+
+The keeper received continuity without shape, matter without the thing it had been.
 
 “The clay remains.”
 
 “Yes.”
+
+Then loss.
 
 “The shape does not.”
 
@@ -44,15 +56,21 @@ The keeper looked down.
 
 The child was still crying.
 
-The Witness said, “She is almost nothing.”
+For a moment the keeper felt the child diminish beyond measure: smaller than the harbor, smaller than the coast, smaller than any scale by which a star might notice a world.
 
-The keeper turned toward him.
+He recoiled.
 
-For a long while the Witness looked beyond the harbor, beyond the weather, toward something the keeper could not follow.
+Then that same shrinking passed through the Witness.
 
-Then he said, “From far enough away, so am I.”
+The keeper wrote the two impressions as:
 
-He descended the path.
+“She is almost nothing.”
+
+And after a long silence:
+
+“From far enough away, so am I.”
+
+The Witness descended the path.
 
 At the quay, the child had dropped one piece beneath a cart wheel.
 
