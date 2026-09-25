@@ -153,3 +153,32 @@ doctrines:
     prohibitions:
       - "Do not treat every dream as contact with the First Witness."
       - "Do not make absence itself holy or withdrawal the goal of finite life."
+
+  - id: error_of_the_awakeners
+    canonical_name: "The Error of the Awakeners"
+    category: doctrine
+    status: canonical
+    core_truth: >
+      Across generations, human movements arise that receive partial contact
+      through the Dream, fail to return cleanly to finite life, and mistake that
+      shattering for progress. They seek to wake Cthulhu so they may ask how to
+      obtain the state they believe he possesses.
+    public_teaching: >
+      Do not mistake inability to return for having gone farther.
+    deeper_teaching: >
+      The Awakeners commit two linked errors: they treat the First Witness as
+      possessing a thing called enlightenment, and they assume such a thing can
+      be acquired. The deeper implication of Cthulhu's dreams is the opposite:
+      nothing is obtained. Every claim of possession must fall away, including
+      possession of identity, knowledge, attainment, emptiness, and finally even
+      the idea that "nothing" has been successfully possessed. Cthulhu never
+      states this as a direct formula to the cult; scripture should reveal it
+      only through dreams, losses, failed grasping, and unanswered questions.
+    paradoxes:
+      - "They seek to awaken the Sleeper in order to learn why he must sleep."
+      - "They call their inability to return proof that they have advanced."
+      - "The final possession to be lost is the claim to possess nothing."
+    prohibitions:
+      - "Do not make Cthulhu directly give the Awakeners a recipe for his state."
+      - "Do not equate fictional Shattering with real-world mental illness."
+      - "Do not imply that self-destruction, deprivation, or harm is a path to revelation."
