@@ -142,3 +142,46 @@ records:
       - "Can other awakened beings mediate Reality safely?"
     notes: >-
       The Flood should retain both beauty and threat without explaining its meaning too directly.
+
+  - id: first_seeing_sequence
+    canonical_name: "The Sequence of the First Seeing"
+    category: origin_sequence
+    status: accepted
+    core_truth: >-
+      The First Seeing was not a single triumphant revelation but a sequence:
+      Cthulhu sought beyond ordinary perception, crossed farther than intended,
+      returned altered but still capable of relation, discovered that his
+      altered awareness affected nearby finite minds, and chose increasing
+      distance before the Great Sleep.
+    public_teaching: >-
+      The cost of the Seeing was learned after the crossing, through return
+      and relationship, not granted as a warning beforehand.
+    deeper_teaching: >-
+      Restraint is therefore not Cthulhu's original doctrine. It is the
+      consequence of discovering that a truth survivable by one witness may
+      become destructive when carried unmeasured into another mind.
+    paradoxes:
+      - "The teaching against unrestricted awakening exists because the First Witness once sought it."
+      - "Return taught the Witness something the crossing alone could not."
+      - "Distance became a form of relationship rather than its refusal."
+    prohibitions:
+      - "Do not portray Cthulhu as knowing the cost before the First Seeing."
+      - "Do not make the crossing a mission to save, convert, or awaken others."
+      - "Do not make the Great Sleep immediate; the danger of proximity must be discovered through consequences."
+      - "Do not define what was seen more completely than the Veil permits."
+    relationships:
+      first_witness: "the seeker, witness, returner, and eventual teacher of restraint"
+      veil: "crossed before its protective function was understood"
+      great_sleep: "eventual response to consequences discovered after return"
+      dream: "later solution to the problem of relationship across protective distance"
+    scripture_sources:
+      - "scripture/01_first_seeing/"
+    research_sources: []
+    open_questions:
+      - "What specific desire first drove Cthulhu to seek beyond the Veil?"
+      - "How many failed attempts at ordinary proximity preceded the Great Sleep?"
+    notes: >-
+      This sequence fixes causal order without fixing chronology, duration,
+      or a complete description of the First Seeing. Future scripture may
+      disagree about imagery and local events while preserving this order.
+
